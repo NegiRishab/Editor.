@@ -1,0 +1,9 @@
+.firstContainer{
+        height: 90vh;
+            width: 95vw;
+            background-color: #926565;
+            margin: auto;
+            margin-top: 5vh;
+            display: flex;
+
+    }
